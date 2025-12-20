@@ -7,6 +7,8 @@ The model is built using the K-Nearest Neighbors (KNN) algorithm and deployed us
 
 🚀 Live Demo
 🔗 Click here to view the Live App
+https://courseraproject-wae8lt3tdejicfzax2bpkm.streamlit.app/
+
 
 📌 About the Project
 
