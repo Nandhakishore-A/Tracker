@@ -41,8 +41,10 @@ The application is built using Streamlit (Python) and optimized for deployment o
     └── Social_Network_Ads.csv  # Dataset
 
 ▶️ How to Run Locally
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
+1️⃣ Clone the Repository:
+git clone :  https://github.com/Nandhakishore-A/Tracker.git
+cd Tracker
+
 cd your-repo-name
 
 2️⃣ Install Dependencies
